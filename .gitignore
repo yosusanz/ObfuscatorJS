@@ -1,0 +1,18 @@
+# Build Folders
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Others
+*.log
+*.vs/
+.vscode/
