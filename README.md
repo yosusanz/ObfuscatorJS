@@ -1,4 +1,4 @@
-<h1>Obfuscator JS – Una herramienta para ofuscar JS sin dependencias globales - VB.net + JS</h1>
+<h1>Obfuscator JS – Una herramienta para obfuscar JS sin dependencias globales - VB.net + JS</h1>
 <p>
 	<img src="https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white&style=flat" alt="VB.NET" />
 	<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
