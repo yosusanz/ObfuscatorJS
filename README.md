@@ -10,7 +10,7 @@
   <img src="https://github.com/yosusanz/yosusanz/blob/main/images/obfuscatorJS/banner.png?raw=true" alt="Obfuscator JS" width="846"/>
   <p align="center">VB.NET | JS</p>
   <br>
-  <p><strong>Obfuscator JS</strong> es una herramienta escrita en <strong>VB.NET</strong> para <strong>ofuscar</strong> archivos JavaScript de forma automática y <strong>sin dependencias externas</strong>, utilizando Node.js portable y `javascript-obfuscator`.</p>
+  <p><strong>Obfuscator JS</strong> es una herramienta escrita en <strong>VB.NET</strong> para <strong>obfuscar</strong> archivos JavaScript de forma automática y <strong>sin dependencias externas</strong>, utilizando Node.js portable y `javascript-obfuscator`.</p>
   <p>No es necesario preocuparse de dependencias ya que las instala la propia aplicación en su arranque.</p>
   <img src="https://github.com/yosusanz/yosusanz/blob/main/images/obfuscatorJS/screenshots.png?raw=true" alt="Obfuscator JS - pantalla splashscreen y aplicación" width="846"/>
   <br>
@@ -22,7 +22,7 @@
 		<li>Detecta si <strong>Node.js portable</strong> está instalado, si no, lo descarga y configura automáticamente.</li>
 		<li>Genera el script <strong>`obfuscate.js`</strong> si no existe.</li>
 		<li>Instala automáticamente el paquete <strong>`javascript-obfuscator`</strong> si es necesario. Ejecuta <strong>npm sin necesidad de instalación</strong>.</li>
-		<li>Procesa todos los archivos `.js` de entrada, creando una <strong>copia ofuscada</strong> en el directorio de salida <strong>manteniendo la estructura de directorios</strong>.</li>
+		<li>Procesa todos los archivos `.js` de entrada, creando una <strong>copia obfuscada</strong> en el directorio de salida <strong>manteniendo la estructura de directorios</strong>.</li>
 	</ul>
 
 
@@ -41,7 +41,7 @@
 		<li>Selecciona una carpeta con tus archivos `.js`.</li>
 		<li>Selecciona una carpeta de salida.</li>
 		<li>Ejecuta la obfuscación.</li>
-		<li>La <strong>salida ofuscada</strong> se generará con su jerarquía en la carpeta de salida.</li>
+		<li>La <strong>salida obfuscada</strong> se generará con su jerarquía en la carpeta de salida.</li>
 	</ol>
 
   <br>
